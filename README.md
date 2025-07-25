@@ -1,7 +1,6 @@
 Project's highlights:
 
-Predicts student marks based on hours studied
-
+Predicts student marks based on hours studied.
 Uses Simple Linear Regression
 Dataset: 10 records (Hours vs Scores)
 Tools: Python, Pandas, Matplotlib, Scikit-learn
